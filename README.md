@@ -1,5 +1,5 @@
 # Overview
-Following tutorial from Udacity Nanodegree
+Following tutorial from Udacity Nanodegree\
 Additional resources
 https://packaging.python.org/tutorials/packaging-projects/
 
