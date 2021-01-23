@@ -1,4 +1,5 @@
 # Overview
+Following tutorial from Udacity Nanodegree
 
 ## `setup.cfg`
 1) The name must be unique;
