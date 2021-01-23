@@ -1,5 +1,7 @@
 # Overview
 Following tutorial from Udacity Nanodegree
+Additional resources
+https://packaging.python.org/tutorials/packaging-projects/
 
 ## `setup.cfg`
 1) The name must be unique;
